@@ -31,3 +31,14 @@ print(x)
 print(y)
 print(z)
 print('')
+
+#Output multiple variables, separated by a comma: It is recommended one
+x = "Python"
+y = "is"
+z = "interesting"
+print(x, y, z)
+print(' ')
+
+#You can also use the '+' operator to output multiple variables:
+print(x + y + z)
+print(' ')
