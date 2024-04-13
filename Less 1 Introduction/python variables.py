@@ -1,3 +1,11 @@
-print("Hello this is the 1st code for pythonw3 series")
+# Multi word variable names
+myVariableName = "Camel Case"
+MyVariableName = "Pascal Casa"
+_myVariableName = "Snake case"
+print(' ')
+print(myVariableName)
+print(' ')
+print(MyVariableName)
 print('')
-print("Hello wel come")
+print(_myVariableName)
+print('')
